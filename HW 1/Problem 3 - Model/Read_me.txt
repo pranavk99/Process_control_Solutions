@@ -1,6 +1,6 @@
 # Sample Yeast Batch Fermenter Model
 
-*_This model is developed by Pranav Krishna, and is adapted from (paper)_*
+*_This model is developed by Pranav Krishna, and is adapted from Nagy 2007_*
 
 To run this simulation, open the files in MATLAB.
 Make sure you are in the correct folder path. 
