@@ -1,3 +1,8 @@
+Reference Paper:
 https://www.sciencedirect.com/science/article/pii/S1385894706004141
 
+Github:
 https://github.com/pranavk99/Process_control_Solutions.git
+
+Homework Solution:
+https://drive.google.com/file/d/1966Nn2wzrxHo1yjAVLn5v1OXUbCI2oVa/view?usp=sharing
